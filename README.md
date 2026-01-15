@@ -16,3 +16,5 @@ A professional AWS infrastructure built with Terraform. This framework deploys a
 1. Initialize Terraform: `terraform init`
 2. Preview changes: `terraform plan`
 3. Deploy: `terraform apply`
+
+BIG THANKS TO: NEXUS SOLUTIONS - MOHAMED TAREK CLOUD ENGINEER
