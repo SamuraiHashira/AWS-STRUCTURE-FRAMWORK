@@ -449,7 +449,7 @@ Run AWS Cost Explorer to identify high-cost resources:
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is OPEN SOURCE.
 
 ---
 
